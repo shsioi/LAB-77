@@ -16,5 +16,5 @@ char before(char x){
     else {
         return '0' ;
     }
-
+   
 }
