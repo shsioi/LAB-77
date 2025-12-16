@@ -40,7 +40,7 @@ int main()
     cout << name << ": " ;
     getline(cin, string1) ; 
     cout << "Fahsai: 555+ see you " << freeDay << ". Bye Bye \\(^ ^)/" ;
-
+  
 }
 
 /*
